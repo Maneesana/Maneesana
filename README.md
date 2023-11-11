@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Maibam Maneesana Singh
 - 👀 I’m interested in learning latest Technologies and Building Things I Loved
-- 🌱 I’m currently learning Java-Blockchain Technology
+- 🌱 I’m currently learning Data Structure and Algorithms using C++
 - 💞️ I’m looking to collaborate on amazing open-source projects
 - 📫 How to reach me [Twitter](https://twitter.com/MaibamManeesana)
 <!---
